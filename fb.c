@@ -2,7 +2,7 @@
 
 #include <linux/fb.h>
 #include <linux/kernel.h>
-#include <linux/spinlock.h>
+#include <linux/vmalloc.h>
 #include <linux/version.h>
 
 #include "fb.h"
